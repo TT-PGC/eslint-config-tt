@@ -10,11 +10,11 @@
     "style guide",
     "eslint",
     "config",
-    "tt"
+    "tt-pgc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TT-PGC/eslint-config-tt"
+    "url": "https://github.com/TT-PGC/eslint-config-tt-pgc"
   },
   "dependencies": {
     "babel-eslint": "^6.1.2",
