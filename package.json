@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-tt",
+  "name": "eslint-config-tt-pgc",
   "version": "1.0.1",
   "description": "TT-PGC's ESLint config, for a better code style.",
   "author": {
