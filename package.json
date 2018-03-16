@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TT-PGC's ESLint config, for a better code style.",
   "author": {
     "name": "jesse",
