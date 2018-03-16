@@ -1,4 +1,4 @@
-# eslint-config-rnx
+# eslint-config-tt-pgc
 
 [![npm](https://img.shields.io/npm/v/eslint-config-rnx.svg?maxAge=60)](https://www.npmjs.com/package/eslint-config-rnx)
 [![npm](https://img.shields.io/npm/dt/eslint-config-rnx.svg?maxAge=60)](https://www.npmjs.com/package/eslint-config-rnx)
