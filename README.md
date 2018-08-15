@@ -28,7 +28,7 @@ TT-PGC's ESLint config, for a better code style.
 在项目根目录下执行：
 
 ```bash
-npm install eslint-config-tt --save-dev
+npm install eslint-config-tt-pgc --save-dev
 ```
 
 #### 1.2 创建 `.eslintrc` 文件
@@ -38,7 +38,7 @@ npm install eslint-config-tt --save-dev
 ```js
 {
   // 使用 tt 编码规范
-  extends: 'eslint-config-tt',
+  extends: 'eslint-config-tt-pgc',
 }
 ```
 
